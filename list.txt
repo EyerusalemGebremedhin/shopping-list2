@@ -13,3 +13,8 @@ salt
 ketchup
 Rice
 onions
+Dettol
+Jik
+Soap
+Air freshner 
+Vim
